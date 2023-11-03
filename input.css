@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: ibmbold;
+    src: url(Font/IBMPlexSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: ibm;
+    src: url(Font/IBMPlexSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: yello;
+    src: url(Font/Yellowtail-Regular.ttf);
+}
+@font-face {
+    font-family: arizonia;
+    src: url(Font/Arizonia-Regular.ttf);
+}
