@@ -1,6 +1,6 @@
 # Sports_Tailwind_Project_10
   
-**If you want to see a full responsive project with tailwind, be sure to look at my code. I hope you enjoy it! ♥️**       
+**If you're an athlete, coach, or the owner of sports clubs, be sure to check out this code. This template is definitely excellent for you 🤸🏻‍♀️♥️**       
 
 ![screencapture-mehrsa-mohajeri-developer-github-io-Sports-Tailwind-Project-10-2023-11-03-14_53_48 (1)](https://github.com/Mehrsa-Mohajeri-Developer/Sports_Tailwind_Project_10/assets/145048780/e9c57bc0-9741-4cfb-a845-ff01b074dce0)
 
